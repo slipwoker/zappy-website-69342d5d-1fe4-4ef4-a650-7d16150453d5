@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+GameVault delivers free online games you can play anywhere, anytime. No restrictions, no downloads—just pure gaming entertainment at your fingertips.
+
+### Games
+https://example.com/games
+Explore hundreds of unblocked games across every genre. From action to puzzles, find your next favorite game in our constantly updated collection.
+
+### About
+https://example.com/about
+Discover how GameVault became the go-to unblocked games website for gamers seeking unrestricted access to quality entertainment without barriers.
+
+### Contact
+https://example.com/contact
+Have questions about our free online games or need support? Reach out to the GameVault team and we&#39;ll respond quickly to help enhance your experience.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
